@@ -76,3 +76,4 @@ Fulladder:
 ### TRUTH TABLE 
 
 ### Result:
+Hence The Outputs are verified.
