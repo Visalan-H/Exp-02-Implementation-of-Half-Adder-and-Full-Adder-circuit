@@ -36,15 +36,39 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
+Halfadder:
+![exp3hacode](https://github.com/Visalan-H/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152077751/acd6e3a6-237b-479a-88eb-7c84f7fce14c)
+
+Fulladder:
+![exp3facode](https://github.com/Visalan-H/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152077751/a7e3c49a-cc60-45b5-bfcb-bb66d4986b1f)
+
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Visalan H
+RegisterNumber: 23007458
 */
-Logic symbol & Truthtable
+ ## TRUTHTABLE
+ Halfadder:
+![exp3hatt](https://github.com/Visalan-H/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152077751/949b9355-3563-4669-a515-3ef6c3ab5aaa)
+
+Fulladder:
+![exp3fatt](https://github.com/Visalan-H/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152077751/574cd9cd-c5b6-489d-9565-2c834f4c25cb)
+
 RTL realization
+Halfadder:
+![exp3hartl](https://github.com/Visalan-H/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152077751/630bd7e2-564e-4a6b-96b0-515080b20e2d)
+
+Fulladder:
+![exp3fartl](https://github.com/Visalan-H/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152077751/7ac6da66-edc8-48e7-b331-ab7e6c5636f2)
+
 
 ### Output:
+Halfadder:
+![exp3haoutput](https://github.com/Visalan-H/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152077751/3e4a13db-4370-4275-af87-5d9e3d514cdd)
+
+Fulladder:
+![exp3faoutput](https://github.com/Visalan-H/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152077751/db4abfc3-fea4-4b1f-97a4-9feec4196de4)
+
 ### RTL
 ### TIMING DIAGRAM
 
